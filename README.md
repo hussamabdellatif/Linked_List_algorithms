@@ -21,3 +21,15 @@ Output: 1->4->3->2->5->NULL
 reverse_linkedlist.cpp : reverses a LL using recursion....
 
 <b>************************************************************<b>
+
+<b>************************************************************<b>
+
+Linked_list_ispalindrome.cpp : Given a singly linked list, determine if it is a palindrome.
+Example 1:
+Input: 1->2
+Output: false
+Example 2:
+Input: 1->2->2->1
+Output: true
+
+<b>************************************************************<b>
